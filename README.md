@@ -32,11 +32,20 @@
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a>
+   <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+  </a>
+   <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="git" width="40" height="40"/> 
+   <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi/desktop?msockid=08c71bdccab86dc1396b0e8bcb286c90" target="_blank"> 
+    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> 
   </a>
 </p>
 
